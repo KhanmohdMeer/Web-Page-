@@ -1,0 +1,19 @@
+<h1> TOP ANIMES ACCORDING TO MY VIEWS</h1>
+<h2> My List of Animes</h2>
+<hr>
+
+<h3>One Piece</h3>
+<p>ongoing Story on Freedom, corruption, 
+    pirates, love, Adventure, etc.</p>
+
+<h3>Naruto</h3>
+<p>Based on a child who was treated as a dangerous 
+    and wanted to be great leader of village 
+    and greates NINJA of all time</p>
+
+<h3>Black Clover</h3>
+<p> Based on a Kid who was Magic less in magic world working
+    hard to reach the toppest ranking</p>
+
+<h3>Sprited Away</h3>
+<P>Good story and animation</P>
